@@ -12,6 +12,7 @@
     margin-right: 50px;
     text-align: left;
 }
+
 @media only screen and (min-width: 768px) {
     #Top_bar.is-sticky #logo {
         padding-top: 10px;
