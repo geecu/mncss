@@ -46,5 +46,7 @@
         max-width: 135px;
         line-height: 18px !important;
         padding-top: 10px !important;
+        padding-bottom: 12px !important;
+        margin-bottom: 0 !important;
     }
 }
