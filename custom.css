@@ -21,6 +21,10 @@
     margin-bottom: -40px;
 }
 
+.the_content_wrapper a {
+    color: #000;
+}
+
 @media only screen and (max-width: 1239px) {
     #Top_bar .text-logo #logo {
         padding-bottom: 15px !important;
