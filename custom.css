@@ -55,7 +55,7 @@
         height: 73px;
     }
     #Top_bar.is-sticky .menu_wrapper .menu > li > a {
-        padding: 20px 0;
+        padding: 20px 0 !important;
     }
 }
 @media only screen and (max-width: 767px) {
