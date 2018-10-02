@@ -23,7 +23,7 @@
     #Top_bar .text-logo #logo {
         margin-bottom: 0 !important;
     }
-    #Top_bar.is-sticky #logo {
+    .mobile-sticky #Top_bar.is-sticky #logo {
         padding-top: 10px;
         padding-bottom: 20px;
         font-size: 15px;
