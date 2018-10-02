@@ -23,6 +23,7 @@
 
 .the_content_wrapper a {
     text-decoration: underline;
+    transition: all .3s ease-in-out;
 }
 .the_content_wrapper a:hover {
     text-decoration: none;
