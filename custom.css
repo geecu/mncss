@@ -20,13 +20,12 @@
 }
 
 @media only screen and (min-width: 768px) {
+    #Top_bar .text-logo #logo {
+        margin-bottom: 0 !important;
+    }
     #Top_bar.is-sticky #logo {
         padding-top: 10px;
         padding-bottom: 20px;
-    }
-    #Top_bar .text-logo #logo {
-    }
-    #Top_bar.is-sticky #logo {
         font-size: 15px;
         max-width: 135px;
         line-height: 18px !important;
