@@ -29,6 +29,10 @@
     text-decoration: none;
 }
 
+#Top_bar .menu > li > a {
+    padding: 10px 0 !important;
+}
+
 @media only screen and (max-width: 1239px) {
     #Top_bar .text-logo #logo {
         padding-bottom: 15px !important;
