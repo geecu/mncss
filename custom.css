@@ -42,6 +42,7 @@
     #Top_bar .text-logo #logo {
         padding-bottom: 12px !important;
         margin-bottom: 0 !important;
+        margin-left: 15px !important;
     }
     .mobile-sticky #Top_bar.is-sticky #logo {
         padding-top: 10px;
@@ -55,5 +56,6 @@
     }
     .mobile-sticky #Top_bar.is-sticky a.responsive-menu-toggle, #Top_bar a.responsive-menu-toggle {
         top: 50% !important;
+        margin-right: 15px !important;
     }
 }
