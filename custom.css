@@ -49,4 +49,7 @@
         padding-bottom: 12px !important;
         margin-bottom: 0 !important;
     }
+    .mobile-sticky #Top_bar.is-sticky a.responsive-menu-toggle {
+        top: 50% !important;
+    }
 }
