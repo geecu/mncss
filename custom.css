@@ -38,3 +38,13 @@
         padding: 18px 0;
     }
 }
+@media only screen and (max-width: 767px) {
+    .mobile-sticky #Top_bar.is-sticky #logo {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        font-size: 15px;
+        max-width: 135px;
+        line-height: 18px !important;
+        padding-top: 10px !important;
+    }
+}
