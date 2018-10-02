@@ -13,6 +13,10 @@
     text-align: left;
 }
 
+#Footer .footer_copy .social li a:hover, #Footer .footer_copy .social-menu a:hover {
+    color: #000;
+}
+
 @media only screen and (max-width: 1239px) {
     #Top_bar .text-logo #logo {
         padding-bottom: 15px !important;
