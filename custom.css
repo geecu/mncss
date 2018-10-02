@@ -24,6 +24,9 @@
 .the_content_wrapper a {
     text-decoration: underline;
 }
+.the_content_wrapper a:hover {
+    text-decoration: none;
+}
 
 @media only screen and (max-width: 1239px) {
     #Top_bar .text-logo #logo {
