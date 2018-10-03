@@ -21,6 +21,8 @@
     margin-bottom: -40px;
 }
 
+.the_content_wrapper a, input {
+
 .the_content_wrapper a {
     text-decoration: underline;
     transition: all .3s ease-in-out;
