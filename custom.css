@@ -24,7 +24,7 @@
 .the_content_wrapper a,
     .rev-btn,
     input[type=submit] {
-    transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out !important;
 }
 
 .the_content_wrapper a {
