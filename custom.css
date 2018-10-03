@@ -22,7 +22,7 @@
 }
 
 .the_content_wrapper a,
-    .play-btn,
+    .rev-btn,
     input[type=submit] {
     transition: all .3s ease-in-out;
 }
