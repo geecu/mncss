@@ -21,14 +21,19 @@
     margin-bottom: -40px;
 }
 
-.the_content_wrapper a, input {
+.the_content_wrapper a, input[type=submit] {
+    transition: all .3s ease-in-out;
+}
 
 .the_content_wrapper a {
     text-decoration: underline;
-    transition: all .3s ease-in-out;
 }
 .the_content_wrapper a:hover {
     text-decoration: none;
+}
+
+input[type=submit]:hover {
+    background-color: #333;
 }
 
 #Top_bar .menu > li > a {
