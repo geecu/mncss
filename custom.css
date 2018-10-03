@@ -42,6 +42,7 @@ input[type=submit]:hover {
 }
 .play-btn i {
     margin-left: 0;
+    font-size: 40px;
 }
 
 #Top_bar .menu > li > a {
