@@ -41,7 +41,7 @@ input[type=submit]:hover {
     width: 75px !important;
     border-radius: 75px !important;
 }
-.play-btn i {
+.revbtn.rev-withicon.play-btn i {
     margin-left: 0 !important;
     font-size: 40px !important;
     line-height: 40px !important;
