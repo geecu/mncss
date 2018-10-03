@@ -37,14 +37,14 @@ input[type=submit]:hover {
 }
 
 .play-btn {
-    height: 75px;
-    width: 75px;
-    border-radius: 75px;
+    height: 75px !important;
+    width: 75px !important;
+    border-radius: 75px !important;
 }
 .play-btn i {
-    margin-left: 0;
-    font-size: 40px;
-    line-height: 40px;
+    margin-left: 0 !important;
+    font-size: 40px !important;
+    line-height: 40px !important;
 }
 
 #Top_bar .menu > li > a {
