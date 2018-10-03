@@ -21,7 +21,9 @@
     margin-bottom: -40px;
 }
 
-.the_content_wrapper a, input[type=submit] {
+.the_content_wrapper a,
+    .play-btn,
+    input[type=submit] {
     transition: all .3s ease-in-out;
 }
 
